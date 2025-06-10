@@ -23,3 +23,11 @@
     width: 100%;
     display: flex;
 }
+
+.border {
+    border: 1px solid transparent;
+}
+
+.border:hover {
+    border: 1px solid white;
+}
