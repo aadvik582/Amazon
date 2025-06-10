@@ -12,10 +12,14 @@
 
 .nav-logo {
     height: 50px;
-    width: 103px;
+    width: 129.73px;
+    display: flex;
 }
 
 .logo {
     background-image: url("/Amazon/amazon_logo.png");
+    background-size: cover;
     height: 50px;
+    width: 100%;
+    display: flex;
 }
