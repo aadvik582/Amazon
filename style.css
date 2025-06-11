@@ -48,3 +48,9 @@
 .address-icon {
     display: flex;
 }
+
+.nav-search {
+    margin-left: 3vmin;
+    display: flex;
+    background-color: rgb(0, 0, 0);
+}
