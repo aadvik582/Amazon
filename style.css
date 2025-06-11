@@ -53,4 +53,15 @@
     margin-left: 3vmin;
     display: flex;
     background-color: rgb(0, 0, 0);
+    border-radius: 4px;
+}
+
+.search-select {
+    border-left: 4px;
+}
+
+.nav-search-icon {
+    background-color: yellow;
+    color: black;
+    border-left: 4px;
 }
